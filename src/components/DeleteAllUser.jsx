@@ -13,10 +13,4 @@ const DeleteAllUser = () => {
   )
 }
 
-const button = styled.action`
-button{
-  color:red;
-}
-`
-
 export default DeleteAllUser
